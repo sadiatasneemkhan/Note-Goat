@@ -1,7 +1,11 @@
-# Note-Goat-Application
-Group project for SENG 401 - Software Architecture
+# Video Demonstration
 
-## Description
+https://youtu.be/dqGOGCKkPf4 <br/>
+Please watch the video demonstration to see the functionalities of Note Goat. 
+
+# Description
+
+This project is for SENG 401 - Software Architecture
 
 This Django project includes the backend, frontend, and tests 
 for a note taking web application. The application is for 
@@ -11,7 +15,7 @@ if they are shared with them. This is all done through the usage
 of accounts. Users may create their own account through the sign
 up page.
 
-## Usage
+# Usage
 
 The site has been deployed on https://note-goat-site.herokuapp.com/
 where the full website can be accessed. However, if you would like
